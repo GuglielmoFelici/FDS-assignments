@@ -1,0 +1,5 @@
+1. See the NumPy lectures from ML course.
+2. Use this repo.
+3. Split functions in groups of 3, discuss the solution together for each function, and then implement one function each on our own. Finally, check the results together.
+4. We have roughly 22 days, which means each block of 3 functions should take MAX 2 days.
+5. I suggest daily meetings.

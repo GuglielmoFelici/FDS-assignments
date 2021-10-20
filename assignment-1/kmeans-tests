@@ -1,0 +1,51 @@
+Settings:	 K=10, dist=intersect
+Results:	 Number of correct matches: 35/40 (87.5%)
+Settings:	 K=20, dist=intersect
+Results:	 Number of correct matches: 33/40 (82.5%)
+Settings:	 K=30, dist=intersect
+Results:	 Number of correct matches: 37/40 (92.5%)
+Settings:	 K=40, dist=intersect
+Results:	 Number of correct matches: 38/40 (95.0%)
+Settings:	 K=50, dist=intersect
+Results:	 Number of correct matches: 37/40 (92.5%)
+Settings:	 K=10, dist=chi2
+Results:	 Number of correct matches: 17/40 (42.5%)
+Settings:	 K=20, dist=chi2
+Results:	 Number of correct matches: 14/40 (35.0%)
+Settings:	 K=30, dist=chi2
+Results:	 Number of correct matches: 14/40 (35.0%)
+Settings:	 K=40, dist=chi2
+Results:	 Number of correct matches: 14/40 (35.0%)
+Settings:	 K=50, dist=chi2
+Results:	 Number of correct matches: 17/40 (42.5%)
+Settings:	 K=10, dist=l2
+Results:	 Number of correct matches: 32/40 (80.0%)
+Settings:	 K=20, dist=l2
+Results:	 Number of correct matches: 33/40 (82.5%)
+Settings:	 K=30, dist=l2
+Results:	 Number of correct matches: 33/40 (82.5%)
+Settings:	 K=40, dist=l2
+Results:	 Number of correct matches: 34/40 (85.0%)
+Settings:	 K=50, dist=l2
+Results:	 Number of correct matches: 33/40 (82.5%)
+Distance l2 failed assertion with K = 10
+Distance l2 failed assertion with K = 20
+Distance l2 failed assertion with K = 30
+Distance l2 failed assertion with K = 40
+Distance l2 failed assertion with K = 50
+
+
+Settings:	 K=10, dist=intersect
+Results:	 Number of correct matches: 64/89 (71.91011235955057%)
+
+Settings:	 K=20, dist=intersect
+Results:	 Number of correct matches: 65/89 (73.03370786516854%)
+
+Settings:	 K=30, dist=intersect
+Results:	 Number of correct matches: 71/89 (79.7752808988764%)
+
+Settings:	 K=40, dist=intersect
+Results:	 Number of correct matches: 70/89 (78.65168539325843%)
+
+Settings:	 K=50, dist=intersect
+Results:	 Number of correct matches: 72/89 (80.89887640449439%)
